@@ -1,2 +1,7 @@
-Data preprocessing templates(in R and Python) for handling missing data using mean, categorical data using encoding, feature scaling(to remove bias to a particular feature/variable), and splitting the data into traning-test set.
+Handle and Preprocessing your dataset before using analysis and visualization
+In the following files, you’ll find useful code in R[filename->data preprocess.R] and Python[filename->data preprocess.py] to preprocess your dataset. These files include preprocessing steps as follows: -
+1.	Reading the dataset (csv format)
+2.	Taking care of missing values
+3.	Handling of categorical data(encoding)
+4.	Feature scaling to prevent variable bias
 
