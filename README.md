@@ -8,7 +8,7 @@ In the following files, you’ll find useful code in R[filename->data preprocess
 3.	Handling of categorical data(encoding)
 4.	Feature scaling to prevent variable bias
 
-## Predicting the most important Business Unit(department) for a startup and pick the startup for VC funding
+## Predicting the most important Business Unit(department) for a startup and pick one of the startups for VC funding
 #### Utilized multiple linear regression
 The dataset provides us with expense numbers(of different BUs ) of startups across US. The goal was to predict the most important BU for a startup where the expenses would result into profitablity. 
 
