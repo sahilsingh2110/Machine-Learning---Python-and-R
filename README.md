@@ -1,4 +1,4 @@
-# Handle and Preprocessing your dataset before using analysis and visualization
+# Handling and Preprocessing your dataset before analysis and visualization
 
 
 In the following files, you’ll find useful code in R[filename->data preprocess.R] and Python[filename->data preprocess.py] to preprocess your dataset. These files include preprocessing steps as follows: -
