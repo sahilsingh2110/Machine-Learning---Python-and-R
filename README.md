@@ -16,3 +16,4 @@ The approach was to first figure out the most important variable(the business un
 
 Engineering/Research and Development unit were found to be most strongly correlated with profits for these startups.
 
+![alt text](https://github.com/sahilsingh2110/Machine-Learning---Python-and-R/blob/master/Multilinear_result_summary.JPG)
