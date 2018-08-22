@@ -13,7 +13,7 @@ The dataset provides us with expense numbers(of different BUs ) of startups acro
 ![snapshot_startups](https://user-images.githubusercontent.com/40129527/44245921-6c1a2d80-a1a9-11e8-8a53-f5bd52653849.JPG)
 ## Utilized multiple linear regression with backward elimination technique
 The approach was to first figure out the most important variable(the business unit), using backward elimination to build the best model to understand which variable affects profit of the startups. Based on the result, pick the startup to invest.
-#### Result
+## Result
 
 ![multilinear_result_summary](https://user-images.githubusercontent.com/40129527/44245697-09746200-a1a8-11e8-8fb1-75e8375ee98a.JPG)
 
